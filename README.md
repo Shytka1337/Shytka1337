@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/jZThVEY.png" alt="banner" />
+</p>
+
 ## 𓄧 Core Concepts
 -  CIA / DAD (Confidentiality, Integrity, Availability / Disclosure, Alteration, Denial)  
 -  Ethics in Hacking  
