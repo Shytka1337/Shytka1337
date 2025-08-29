@@ -1,6 +1,5 @@
 ## 𓄧 Core Concepts
 -  CIA / DAD (Confidentiality, Integrity, Availability / Disclosure, Alteration, Denial)  
--  Black Hat / White Hat / Grey Hat  
 -  Ethics in Hacking  
 -  Social Engineering  
 
