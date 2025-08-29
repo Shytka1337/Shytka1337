@@ -1,16 +1,32 @@
-## Hi there 👋
+## 🔐 Core Concepts
+- 🕵️ CIA / DAD (Confidentiality, Integrity, Availability / Disclosure, Alteration, Denial)  
+- 🎭 Black Hat / White Hat / Grey Hat  
+- ⚖️ Ethics in Hacking  
+- 🧠 Social Engineering  
 
-<!--
-**Shytka1337/Shytka1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎣 Attacks & Techniques
+- 📧 Phishing / Smishing / Vishing / Baiting / Whaling  
+- 🌐 Open Source Intelligence (OSINT)  
+- 🔍 Google Dorking  
+- 🛠️ Manual Hacking  
+- 💉 SQL Injection, XSS Injection  
+- 🍪 Cookie-based Attacks  
+- 🐎 Malware: Ransomware, Trojans, Worms, Spyware  
+- 🌊 DDoS Attacks  
 
-Here are some ideas to get you started:
+## 🌍 Networking & Protocols
+- 📡 Ports & Protocols  
+- 🌐 HTTP / HTTPS / SSL / TLS  
+- 📶 Router Monitoring  
+- 📊 Wireshark (Packet Sniffing)  
+- 💻 Network Exploitation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Systems & Tools
+- 🐧 Kali Linux  
+- 🖥️ Operating Systems & Environments  
+- 🔎 Website Footprinting  
+- 🌍 DNS Footprinting & DNS Hacking  
+
+## 🔏 Advanced Topics
+- 🔑 Cryptography  
+- 🖼️ Steganography  
